@@ -1,2 +1,2 @@
-# Carrosel
-Efeito carrosel.
+# Efeito Carrosel
+
