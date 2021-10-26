@@ -1,2 +1,2 @@
-# Efeito Carrosel
-## HTML e CSS
+# Efeito Carrosel.
+## HTML e CSS.
